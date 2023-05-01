@@ -1,0 +1,6 @@
+pandas
+pyshark
+numpy
+scikit-learn
+torch
+tensorflow
